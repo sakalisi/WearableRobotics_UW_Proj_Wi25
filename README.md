@@ -1,3 +1,7 @@
+## Repository Used for the Wearable Robotics Project ##
+
+We use the following datasets:
+
 HELLO! THANK YOU FOR YOUR INTEREST IN OUR DATASET!
 
 For easy access to the dataset with dropbox check our lab's website:
