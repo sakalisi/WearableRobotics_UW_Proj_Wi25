@@ -1,6 +1,7 @@
 %% First Trial to Use XGBoost to Predict Hip Moment from a Variety of Parameters
 
 % Import Patient Data File
+% use TD_extract function for each window 
 % xtrain = [ ]
 % ytrain = true hip moment
 params = struct;
